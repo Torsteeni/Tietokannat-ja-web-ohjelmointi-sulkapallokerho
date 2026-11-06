@@ -2,17 +2,17 @@
 Sovelluksen perusominaisuudet:
 - Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
   
-- Käyttäjä pystyy lisäämään sovellukseen tietokohteita. Lisäksi käyttäjä pystyy muokkaamaan ja poistamaan lisäämiään tietokohteita.
+- Käyttäjä pystyy lisäämään sovellukseen omia ilmoituksia tulevista tapahtumista ja uutisia. Lisäksi käyttäjä pystyy muokkaamaan ja poistamaan lisäämiään ilmoituksia.
 
-- Käyttäjä näkee sovellukseen lisätyt tietokohteet. Käyttäjä näkee sekä itse lisäämänsä että muiden käyttäjien lisäämät tietokohteet.
+- Käyttäjä näkee sovellukseen lisätyt ilmoitukset. Käyttäjä näkee sekä itse lisäämänsä että muiden käyttäjien lisäämät ilmoitukset.
 
-- Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella. Käyttäjä pystyy hakemaan sekä itse lisäämiään että muiden käyttäjien lisäämiä tietokohteita.
+- Käyttäjä pystyy etsimään ilmoituksia hakusanalla tai muulla perusteella. Käyttäjä pystyy hakemaan sekä itse lisäämiään että muiden käyttäjien lisäämiä ilmoituksia.
 
-- Sovelluksessa on käyttäjäsivut, jotka näyttävät jokaisesta käyttäjästä tilastoja ja käyttäjän lisäämät tietokohteet.
+- Sovelluksessa on käyttäjäsivut, jotka näyttävät jokaisesta käyttäjästä tilastoja ja käyttäjän lisäämät ilmoitukset.
 
-- Tietokohteille on valittavissa useampia luokitteluja. Valittavissa olevat luokittelut tulee määritellä tietokannassa. Käyttäjä voi valita jokaisen luokittelun kohdalla yhden tai useamman vaihtoehdon.
+- Ilmoituksille on valittavissa useampia luokitteluja. Valittavissa olevat luokittelut tulee määritellä tietokannassa. Käyttäjä voi valita jokaisen luokittelun kohdalla yhden tai useamman vaihtoehdon.
 
-- Sovelluksessa on pääasiallisen tietokohteen lisäksi toissijainen tietokohde, joka täydentää pääasiallista tietokohdetta. Käyttäjä pystyy lisäämään toissijaisia tietokohteita omiin ja muiden käyttäjien tietokohteisiin liittyen.
+- Sovelluksessa on pääasiallisen ilmoituksen lisäksi kommentteja, jotka täydentää pääasiallista ilmoitusta. Käyttäjä pystyy lisäämään kommentteja omiin ja muiden käyttäjien ilmoituksiin liittyen.
 
 Sovelluksen tekniset vaatimukset:
 - Sovellus on toteutettu samaan tapaan kuin kurssin materiaalissa.
